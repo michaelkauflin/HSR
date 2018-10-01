@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=SonovaTest
+project.version=6.4
+project.original.version=6.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=6.6.0
+product.original.version=6.6.0
+project.id=74d061a9-81b7-439a-a750-598228a9668a
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
